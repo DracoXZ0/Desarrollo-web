@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>All Tags</title>
+</head>
+
+<body>
+
+    <!-- Titulos -->
+    <h1>Productos</h1>
+    <h2>Siempre organico y fresco</h2>
+
+    <!-- Salto de linea -->
+    <br>
+ <center>
+    <from action="">
+        <input type="text" placeholder= "Nombre de la fruta o verdura">
+        <br>
+        <select>
+            <option value="">Ingrese la opcion</option>
+        </select>
+
+        <br>
+        <input type="number" placeholder="Tipo de alimento">
+        <br>
+        <input type="date" placeholder="Fecha de cosecha">
+        <br>
+        <input type="number" placeholder="Porcentaje de descuento">
+        <br>
+        <input type="date" placeholder="Fecha de vencimiento">
+        <br>
+        <input type="text" placeholder= "Ingrese la descripcion">
+        <br>
+
+    </from>
+
+
+    </from>
+ </center>
+   
+</body>
+
+</html>
